@@ -1,3 +1,1 @@
-Teste de commit
-
-Novo texto para testes.
+O README deve ser usado para transmitir informações úteis sobre o projeto.
